@@ -1,16 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-```
-██╗   ██╗████████╗██╗  ██╗██╗   ██╗ ██████╗ ███╗   ██╗ ██████╗  ██████╗
-██║   ██║╚══██╔══╝██║  ██║██║   ██║██╔═══██╗████╗  ██║██╔════╝ ██╔════╝
-██║   ██║   ██║   ███████║██║   ██║██║   ██║██╔██╗ ██║██║  ███╗██║  ███╗
-╚██╗ ██╔╝   ██║   ██╔══██║██║   ██║██║   ██║██║╚██╗██║██║   ██║██║   ██║
- ╚████╔╝    ██║   ██║  ██║╚██████╔╝╚██████╔╝██║ ╚████║╚██████╔╝╚██████╔╝
-  ╚═══╝     ╚═╝   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝
-```
+## 👋 Hi, I'm Thương
 
-### `Võ Thị Thương` · Full-Stack Engineer · AI/ML Enthusiast
+### Full-Stack Engineer · AI/ML Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+systems+from+backend+to+browser;Deep+Learning+%7C+Spring+Boot+%7C+Full-Stack;Turning+data+into+insight%2C+code+into+products)](https://git.io/typing-svg)
 
@@ -21,7 +14,7 @@
 ## 🧬 About Me
 
 ```python
-class VThuongg:
+class Developer:
     name        = "Võ Thị Thương"
     role        = "Full-Stack Engineer & AI/ML Builder"
     location    = "Ho Chi Minh City, Vietnam 🇻🇳"
@@ -38,6 +31,7 @@ class VThuongg:
 ### 🔧 Backend & Systems
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -49,6 +43,7 @@ class VThuongg:
 
 ### 🗄️ Database & Frontend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -57,17 +52,16 @@ class VThuongg:
 ## 🚀 Featured Projects
 
 ### 🧬 ProtGO — Deep Learning for Protein Function Prediction
-> `Jan 2026 – May 2026` . Team of 2
+> `Jan 2026 – May 2026`
 
 Multi-expert deep learning system for automated protein function labeling using Gene Ontology (GO) terms.
 
 - 🔬 Cross-attention combining **ProtBERT-BFD** + **ESM2** protein language model embeddings
 - 🧩 Expert models: `LR-Cross-InterPro`, `GOXML`, `LR-ESM2`
 - 📊 XGBoost Learning-to-Rank meta-model for ensemble re-ranking
-- 📉 AutoEncoder: 1024-dim → 200-dim for dimensionality reduction
 - 🏆 **Fmax 0.747 · AuPRC 0.785** on MFO — surpassing NetGO2 by **+7% Fmax**, **+13% AuPRC** using only ~4% of their parameters
 
-`Python` `PyTorch` `Transformers` `XGBoost` `Scikit-learn` `NumPy` `Pandas`
+`Python` `PyTorch` `Transformers` `XGBoost` `Scikit-learn`
 
 ---
 
@@ -78,24 +72,22 @@ Full-stack web app for managing products, customers, employees & orders.
 
 - 🛒 Built end-to-end with PHP, MySQL, JavaScript
 - 🔐 Role-based access control & authentication flows
-- 🧪 Designed & executed manual test cases; boundary value + negative testing
-- 📝 Documented bugs with reproduction steps & expected vs actual results
+- 🧪 Manual test cases; boundary value + negative testing
 
-`PHP` `MySQL` `JavaScript` `QA Testing`
+`PHP` `MySQL` `JavaScript`
 
 ---
 
 ### 🎬 Movie Audience Satisfaction Analysis
-> `2025` · Team of 3 · [GitHub](https://github.com/VThuongg)
+> `2025` · Team of 3
 
-Data-driven analysis of what actually makes audiences rate movies high.
+Data-driven analysis of what makes audiences rate movies high.
 
-- 📊 EDA on MovieLens + TMDB: demographics, genres, runtime, budget correlations
-- 🎯 K-Means clustering (PCA-reduced) → indie / mid-budget / blockbuster segments
+- 📊 EDA on MovieLens + TMDB: demographics, genres, runtime, budget
+- 🎯 K-Means clustering → indie / mid-budget / blockbuster segments
 - 🌲 Random Forest + XGBoost + SHAP → **Director Power** = dominant feature (2.5× more than actors)
-- ⭐ Engineered **Weighted Score** feature from genre-based historical ratings
 
-`Python` `Pandas` `Scikit-learn` `XGBoost` `Matplotlib` `Seaborn`
+`Python` `Pandas` `Scikit-learn` `XGBoost` `Matplotlib`
 
 ---
 
@@ -120,10 +112,10 @@ Data-driven analysis of what actually makes audiences rate movies high.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthuongg/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VThuongg)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VThuongg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://VThuongg.github.io/update...)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thuong16052004@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://VThuongg.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
