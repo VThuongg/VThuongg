@@ -91,23 +91,6 @@ Data-driven analysis of what makes audiences rate movies high.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VThuongg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VThuongg&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VThuongg&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
