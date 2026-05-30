@@ -48,56 +48,16 @@ class Developer:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
-
-## 🚀 Featured Projects
-
-### 🧬 ProtGO — Deep Learning for Protein Function Prediction
-> `Jan 2026 – May 2026`
-
-Multi-expert deep learning system for automated protein function labeling using Gene Ontology (GO) terms.
-
-- 🔬 Cross-attention combining **ProtBERT-BFD** + **ESM2** protein language model embeddings
-- 🧩 Expert models: `LR-Cross-InterPro`, `GOXML`, `LR-ESM2`
-- 📊 XGBoost Learning-to-Rank meta-model for ensemble re-ranking
-- 🏆 **Fmax 0.747 · AuPRC 0.785** on MFO — surpassing NetGO2 by **+7% Fmax**, **+13% AuPRC** using only ~4% of their parameters
-
-`Python` `PyTorch` `Transformers` `XGBoost` `Scikit-learn`
-
----
-
-### 📱 Mobile Phone Store Management System
-> `Jan 2025 – May 2025` · Team of 4
-
-Full-stack web app for managing products, customers, employees & orders.
-
-- 🛒 Built end-to-end with PHP, MySQL, JavaScript
-- 🔐 Role-based access control & authentication flows
-- 🧪 Manual test cases; boundary value + negative testing
-
-`PHP` `MySQL` `JavaScript`
-
----
-
-### 🎬 Movie Audience Satisfaction Analysis
-> `2025` · Team of 3
-
-Data-driven analysis of what makes audiences rate movies high.
-
-- 📊 EDA on MovieLens + TMDB: demographics, genres, runtime, budget
-- 🎯 K-Means clustering → indie / mid-budget / blockbuster segments
-- 🌲 Random Forest + XGBoost + SHAP → **Director Power** = dominant feature (2.5× more than actors)
-
-`Python` `Pandas` `Scikit-learn` `XGBoost` `Matplotlib`
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vthuongg)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VThuongg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white)]([https://VThuongg.github.io](https://vthuongg.github.io/my-portfolio/))
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thuong16052004@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://vthuongg.github.io/my-portfolio/)
+
+<br/>
+
+📫 Reach me at: **[thuong16052004@gmail.com](mailto:thuong16052004@gmail.com)**
 
 </div>
