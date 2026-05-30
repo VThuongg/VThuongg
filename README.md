@@ -11,6 +11,12 @@
 
 ---
 
+I'm a Full-Stack Engineer based in Ho Chi Minh City, specializing in Spring Boot, PHP, Python, and React. I care about clean architecture and AI-driven solutions.
+
+From building management systems to deep learning for bioinformatics — I thrive at the intersection of software engineering and data science.
+
+---
+
 ## 🧬 About Me
 
 ```python
