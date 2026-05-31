@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 2 * * *"   # chạy mỗi ngày lúc 2h sáng
-  workflow_dispatch:        # cho phép chạy tay
+    - cron: "0 2 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -12,19 +12,21 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: VThuongg
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Push generated files
+      - name: Push to main
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add dist/
-          git commit -m "chore: update snake animation" || echo "No changes to commit"
-          git push
+          git commit -m "chore: update snake animation [skip ci]" || echo "nothing to commit"
+          git push origin main
