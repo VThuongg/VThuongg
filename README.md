@@ -56,15 +56,17 @@ class Developer:
 
 ---
  
-## 🛸 Commit Odyssey
- 
+## 🐛 Commit Garden
+
 <div align="center">
-> *Each commit is a step through the cosmos — one push at a time.*
- 
-![Commit Odyssey](./assets/contribution-odyssey.svg)
- 
-`🚀` Launch · `⭐` Star burst · `🛸` Big PR · `☄️` Hotfix · `🪐` Feature orbit · `🌙` Midnight push · `🧬` Bio-ML
- 
+
+> *Every green square is a leaf I've eaten.*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg" />
+  <img src="dist/snake.svg" />
+</picture>
+
 </div>
 
 ---

@@ -1,0 +1,20 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # chạy mỗi ngày lúc 2h sáng
+  workflow_dispatch:        # cho phép chạy tay
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: VThuongg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
