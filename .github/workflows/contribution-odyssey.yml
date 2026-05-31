@@ -1,0 +1,39 @@
+name: Commit Odyssey
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # runs daily at 01:00 UTC
+  push:
+    branches: [main]
+  workflow_dispatch:        # allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate SVG
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_USERNAME: VThuongg
+          OUTPUT_PATH: assets/contribution-odyssey.svg
+        run: python scripts/gen_contribution_odyssey.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-odyssey.svg
+          git diff --staged --quiet || git commit -m "chore: update contribution odyssey [skip ci]"
+          git push
