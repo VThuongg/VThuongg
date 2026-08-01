@@ -3,7 +3,7 @@
 
 ## 👋 Hi, I'm Thương
 
-### Full-Stack Engineer · AI/ML Enthusiast
+### Software Developer · QA Tester
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+systems+from+backend+to+browser;Deep+Learning+%7C+Spring+Boot+%7C+Full-Stack;Turning+data+into+insight%2C+code+into+products)](https://git.io/typing-svg)
 
