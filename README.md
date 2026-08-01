@@ -18,21 +18,21 @@ From building management systems to deep learning for bioinformatics - I thrive 
 ---
 
 ## 🧬 About Me
-
+    
 ```python
 class Developer:
     name        = "Võ Thị Thương"
-    role        = "Full-Stack Engineer & AI/ML Builder"
+    role        = "Software Developer & QA Tester"
     location    = "Ho Chi Minh City, Vietnam 🇻🇳"
-    stack       = ["Spring Boot", "PHP", "Python", "React", "MySQL"]
-    interests   = ["Deep Learning", "Bioinformatics", "System Design"]
-    currently   = "Building AI systems that solve real-world problems"
-    goal        = "Write clean code. Ship fast. Learn always."
+    stack       = ["React", "FastAPI", "Spring Boot", "MySQL", "Supabase"]
+    interests   = ["Full-Stack Dev", "Game Dev", "Software Quality Assurance"]
+    currently   = "Building a Food Ordering Platform with FastAPI & Supabase"
+    goal        = "Write clean code. Ship with quality. Learn always."
 ```
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack    
 
 ### 🔧 Backend & Systems
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
