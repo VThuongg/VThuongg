@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Thương
 
-### QA/QC Tester · Test Automation (learning) · Software Developer
+### QA/QC Tester · Test Automation (learning)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=B5B07A&center=true&vCenter=true&width=600&lines=Finding+bugs+before+users+do;Manual+Testing+%7C+API+Testing+%7C+Playwright;Quality+first.+Ship+with+confidence)](https://git.io/typing-svg)
 
